@@ -63,9 +63,6 @@ namespace Lab8
             series.BorderWidth = 3;
             series.Legend = "График1";
             chart.Series.Add(series);
-
-            //Legend legend = new Legend();
-            //chart1.Legends.Add(legend);
         }
 
         private void Form1_Load(object sender, EventArgs e)
