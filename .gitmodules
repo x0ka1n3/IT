@@ -1,0 +1,3 @@
+[submodule "GUI/lab9"]
+	path = GUI/lab9
+	url = https://github.com/x0ka1n3/lab9.git
